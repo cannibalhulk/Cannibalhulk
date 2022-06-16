@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **huseynlisukur000@gmail.com**
 
-- 📄 Know about my certificates [https://app.mediafire.com/nmboh35h9or8h](https://app.mediafire.com/nmboh35h9or8h)
+- 📄 Know about my certificates [Mediafire](https://app.mediafire.com/nmboh35h9or8h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
