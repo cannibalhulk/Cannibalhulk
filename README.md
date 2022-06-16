@@ -1,3 +1,4 @@
+[![MasterHead](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
 <h1 align="center">Hi 👋, I'm Shukur</h1>
 <h3 align="center">A frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/e7/63/93e763dcb6fc09ecb4ed179a359df6a2.gif">
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **huseynlisukur000@gmail.com**
 
-- 📄 Know about my certificates [Mediafire](https://app.mediafire.com/nmboh35h9or8h)
+- 📄 Know about my certificates [Certificates](https://app.mediafire.com/nmboh35h9or8h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
