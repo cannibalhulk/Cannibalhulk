@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shukur</h1>
 <h3 align="center">A frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
@@ -11,13 +10,14 @@
 
 - 📫 How to reach me **huseynlisukur000@gmail.com**
 
-- 📄 Know about my certificates [Certificates](https://app.mediafire.com/nmboh35h9or8h)
+- 📄 Know about my certificates [https://app.mediafire.com/nmboh35h9or8h](https://app.mediafire.com/nmboh35h9or8h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ze0nrek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ze0nrek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shukurhuseynli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukurhuseynli" height="30" width="40" /></a>
 <a href="https://instagram.com/huse7nli_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huse7nli_" height="30" width="40" /></a>
-<a href="https://discord.gg/! ze0nrek#5439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! ze0nrek#5439" height="30" width="40" /></a>
+<a href="https://discord.gg/!ze0nrek#5439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="!ze0nrek#5439" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
