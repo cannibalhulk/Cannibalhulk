@@ -1,4 +1,4 @@
-Hi 👋 My name is Shukur Huseynli
+Hi 👋 
 ================================
 Frontend Developer
 ------------------
