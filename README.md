@@ -1,13 +1,13 @@
-Hi 👋 
+Hi 👋 I'm Shukur
 ================================
 Frontend Developer
 ------------------
 
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
 
-* 🌍  I'm based in BAKU,Azerbaijan
+* 🇦🇿  I'm based in BAKU,Azerbaijan
 * ✉️  You can contact me at [huseynlisukur000@gmail.com](mailto:huseynlisukur000@gmail.com)
-* 🧠  I'm learning React
+* 👨🏻‍💻  I'm learning React
 
 ### Skills
 
