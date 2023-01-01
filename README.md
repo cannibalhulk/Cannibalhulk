@@ -3,7 +3,7 @@ Hi 👋 I'm Shukur
 Frontend Developer
 ------------------
 
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
+<a href="https://app.daily.dev/Cannibalhulk"><img align="right" src="https://api.daily.dev/devcards/9991103433b4427996a44eea44bd6636.png?r=2ne" height="400" width="300" alt="Zeonrek's Dev Card"/></a>
 
 * 🇦🇿  I'm based in BAKU,Azerbaijan
 * ✉️  You can contact me at [huseynlisukur000@gmail.com](mailto:huseynlisukur000@gmail.com)
