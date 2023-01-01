@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
-        uses: cannibalhulk/action-devcard@2.0.2
+        uses: Cannibalhulk/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
