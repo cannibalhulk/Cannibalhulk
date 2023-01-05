@@ -7,7 +7,7 @@ Frontend Developer
 
 * 🇦🇿  I'm based in BAKU,Azerbaijan
 * ✉️  You can contact me at [huseynlisukur000@gmail.com](mailto:huseynlisukur000@gmail.com)
-* 👨🏻‍💻  I'm learning React
+* 👨🏻‍💻  I'm learning Next.js
 
 ### Skills
 
