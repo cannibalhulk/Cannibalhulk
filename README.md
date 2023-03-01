@@ -10,6 +10,10 @@ Frontend Developer
 * 👨🏻‍💻  I'm learning Next.js
 * 🔭 I’m currently blogging on my [personal website](https://www.shukurdev.pro)
 
+## Recent Blog Post
+
+[Why you should consider being a full-stack developer](https://www.shukurdev.pro/blog/consider-being-a-fullstack-developer)
+
 ## Skills
 
 
