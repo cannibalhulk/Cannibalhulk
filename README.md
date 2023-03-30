@@ -12,7 +12,7 @@ Frontend Developer
 
 ## Recent Blog Post
 
-[Why you should consider being a full-stack developer](https://www.shukurdev.pro/blog/consider-being-a-fullstack-developer)
+[ChatGPT prompts to use improving your websites SEO in 2023](https://www.shukurdev.pro/blog/chatgpt-prompts)
 
 ## Skills
 
