@@ -12,7 +12,7 @@ Frontend Developer
 
 ## Recent Blog Post
 
-[ChatGPT prompts to use improving your websites SEO in 2023](https://www.shukurdev.pro/blog/chatgpt-prompts)
+[Best AI SEO Tools Worth To Use in 2023](https://www.shukurdev.pro/blog/best-ai-seo-tools)
 
 ## Skills
 
