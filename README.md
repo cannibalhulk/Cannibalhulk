@@ -12,7 +12,7 @@ React Frontend Developer
 
 ## Recent Blog Post
 
-<a href="https://www.shukurdev.pro/blog/monk-mode-and-goals" target="_blank" >"Monk Mode" and why it's important to limit our goals</a>
+<a href="https://www.shukurdev.pro/blog/monk-mode-and-goals" target="blank">"Monk Mode" and why it's important to limit our goals</a>
 
 ## Skills
 
