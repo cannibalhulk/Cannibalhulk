@@ -1,6 +1,6 @@
 Hi 👋 I'm Shukur
 ================================
-Frontend Developer
+React Frontend Developer
 ------------------
 
 <a href="https://app.daily.dev/Cannibalhulk"><img align="right" src="https://api.daily.dev/devcards/9991103433b4427996a44eea44bd6636.png?r=kdy" height="400" width="300" alt="Zeonrek's Dev Card"/></a>
