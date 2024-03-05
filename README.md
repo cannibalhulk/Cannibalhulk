@@ -3,7 +3,7 @@ Hi 👋 I'm Shukur
 React Frontend Developer
 ------------------
 
-<a href="https://app.daily.dev/cannibalhulk"><img src="https://api.daily.dev/devcards/v2/ZsLhk2HjkApYKx9pc7SCQ.png?type=default&r=ovf" width="356" alt="Zeonrek's Dev Card"/></a>
+<a href="https://app.daily.dev/cannibalhulk"><img align="right" src="https://api.daily.dev/devcards/v2/ZsLhk2HjkApYKx9pc7SCQ.png?type=default&r=ovf" width="356" alt="Zeonrek's Dev Card"/></a>
 
 * 🇦🇿  I'm based in BAKU,Azerbaijan
 * ✉️  You can contact me at [shukurdev.pro](https://www.shukurdev.pro)
