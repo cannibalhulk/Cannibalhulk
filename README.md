@@ -12,7 +12,7 @@ React Frontend Developer
 
 <h2>Recent Blog Post</h2> 
 
-<a href="https://www.shukurdev.pro/blog/ai-image-generation-tries" target="blank">🤖 AI Image Generation Tries</a>
+<a href="https://shukurdev-blog.vercel.app/blog/introduction-to-fresh-the-next-gen-web-framework" target="blank">Introduction to Fresh 🍋 (the next-gen web framework)</a>
 
 ## Skills
 
