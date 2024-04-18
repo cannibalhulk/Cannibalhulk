@@ -8,6 +8,7 @@ React Frontend Developer
 * 🇦🇿  I'm based in BAKU,Azerbaijan
 * ✉️  You can contact me at [shukurdev.vercel.app](https://shukurdev.vercel.app)
 * 👨🏻‍💻  I'm building apps with Next.js
+* 📖  I'm learning Vue.js 
 * 🔭 I’m currently writing blogs on [shukurdev-blog.vercel.app](https://shukurdev-blog.vercel.app)
 
 <h2>Recent Blog Post</h2> 
