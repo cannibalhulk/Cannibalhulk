@@ -13,7 +13,7 @@ React Frontend Developer
 
 <h2>Recent Blog Post</h2> 
 
-<a href="https://shukurdev-blog.vercel.app/blog/awesome-things-related-to-react-hooks" target="blank">Awesome Things Related To React Hooks 😍</a>
+<a href="https://shukurdev-blog.vercel.app/blog/how-to-analyze-your-next-js-app-bundle-size-with-these-3-lines-of-code" target="blank">How To Analyze Your NEXT.JS 14 App Bundle Size With These 3 Lines of Code</a>
 
 ## Skills
 
